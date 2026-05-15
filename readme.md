@@ -1,3 +1,6 @@
+# Penjelasan
+## Penjelasan Program Hitung Luas dan Keliling Lingkaran menggunakan method
+
 cara kerja programnya:
 1. ada sebuah object bernama ling
 2. selanjutnya didalamnya terdapat 3 method yang bernama luas, kel, dan hitung
